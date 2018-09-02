@@ -1,7 +1,7 @@
 {
     "bot":{
         "EthWalletDev_bot":{
-            "telegram_token":"358616486:AAG-7KVmFNfnvlzXjU7BlymqjMznwKktQ0c",
+            "telegram_token":"395073680:AAEW9RsEdUZKNLC4BYkQEk6bU2cmzM9UVdw",
             "telegram_url":"https://telewallet-finkvi.c9users.io",
             "port":8080,
             "nodeurl":"https://eth.j2u.ru:8766",
